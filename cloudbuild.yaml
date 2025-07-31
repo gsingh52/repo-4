@@ -14,3 +14,5 @@ steps:
 images: 
 - gcr.io/gcp-devops-464218/runimage
 
+options:
+  logging: CLOUD_LOGGING_ONLY
